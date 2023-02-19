@@ -12,3 +12,8 @@ river.initialize()
 river.display()
 
 river.next_time_step(10)
+#choose a random point
+#activate the move function 
+#choose a random position it moves to
+# if, if, if 
+# loop several times 
